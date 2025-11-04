@@ -6,8 +6,9 @@ class Program
 {
     static void Main(string[] args)
     {
-
-       int  Num = 5;
+        Console.WriteLine("Introdueix la nota:");
+        var num = Console.ReadLine();
+        int Num = Convert.ToInt32(num);
 
         if (Num <= 4.9)
         {

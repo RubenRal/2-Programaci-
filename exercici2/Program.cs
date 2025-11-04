@@ -4,9 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-
-        int num = 8;
-        if (num % 2 == 0)
+        Console.WriteLine("Introdueix el numero:");
+        var num = Console.ReadLine();
+        int Num = Convert.ToInt32(num);
+        if (Num % 2 == 0)
         {
             Console.WriteLine("El número és parell");
         }

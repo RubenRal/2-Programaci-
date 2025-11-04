@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici10\\exercici10.csproj",
+      "projectUniqueName": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici10\\exercici10.csproj",
       "projectName": "exercici10",
-      "projectPath": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici10\\exercici10.csproj",
+      "projectPath": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici10\\exercici10.csproj",
       "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici10\\obj\\",
+      "outputPath": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici10\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

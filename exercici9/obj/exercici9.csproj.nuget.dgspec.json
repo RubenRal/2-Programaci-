@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici9\\exercici9.csproj": {}
+    "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici9\\exercici9.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici9\\exercici9.csproj": {
+    "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici9\\exercici9.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici9\\exercici9.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici9\\exercici9.csproj",
         "projectName": "exercici9",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici9\\exercici9.csproj",
+        "projectPath": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici9\\exercici9.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\2-Programació\\exercici9\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\2-programes-basics-RubenRal\\2-Programació\\exercici9\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

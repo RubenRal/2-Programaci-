@@ -1,0 +1,14 @@
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\bin\Debug\net9.0\exercici10.exe
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\bin\Debug\net9.0\exercici10.deps.json
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\bin\Debug\net9.0\exercici10.runtimeconfig.json
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\bin\Debug\net9.0\exercici10.dll
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\bin\Debug\net9.0\exercici10.pdb
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.AssemblyInfoInputs.cache
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.AssemblyInfo.cs
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.dll
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\refint\exercici10.dll
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.pdb
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\exercici10.genruntimeconfig.cache
+C:\Users\Usuario\2-programes-basics-RubenRal\2-Programació\exercici10\obj\Debug\net9.0\ref\exercici10.dll
